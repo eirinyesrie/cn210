@@ -21,6 +21,6 @@
 ## 2nd HOMEWORK : การทำงานของคอมพิวเตอร์
 <br>**J-Type**
 <br>การทำงานของคอมพิวเตอร์คำสั่ง Jump ทำงานดังนี้
-![image]()
+![image](https://scontent.fbkk8-3.fna.fbcdn.net/v/t1.0-9/p960x960/92364687_2335459130087883_5698902116907614208_o.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=KHOWzEGTIXIAX-F46rU&_nc_ht=scontent.fbkk8-3.fna&_nc_tp=6&oh=aa455bf79319c035c827d57f1d21b442&oe=5ECE8A7B)
 
 
