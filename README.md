@@ -7,6 +7,7 @@
 * Op Code(Operation Code) : Op Code ของ J-format คือ **000010**
 * Address หรือ jump target address : จะเป็นตำแหน่งที่เราจะกระโดดไปทำงานหลังจากที่เราแปลง 32 bits เป็น 26 bits <br>
 
-**วิธีการแปลง Address จาก 32 bits เป็น 26 bits** <br>
-
+**วิธีการเขียนคำสั่ง jump** <br>
+แบ่งเป็น 2 ส่วนคือ Op Code และ Address โดย Op Code ของคำสั่ง jump คือ **000010** ส่วนAddressเราต้องทำการแปลงจาก 32 bits มาเป็น 26 bits เสียก่อนโดยทำดังนี้
+![Image](https://www.facebook.com/photo?fbid=2335362643430865&set=a.1511946355772502)
 
