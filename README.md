@@ -4,5 +4,5 @@
 |Op Code|Address|
 |-----|-----|
 |6 bits|26 bits|
-<br> -Op Code(Operation Code) : Op Code ของ J-format คือ <br>**000010**
+* -Op Code(Operation Code) : Op Code ของ J-format คือ <br>**000010**
 
