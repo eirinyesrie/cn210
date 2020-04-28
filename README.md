@@ -36,3 +36,6 @@
 
 <br>**R-Type**
 <br>การทำงานของคอมพิวเตอร์คำสั่ง I-Type ทำงานดังนี้
+![image](https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/p960x960/94928612_2335520910081705_1391097185134706688_o.jpg?_nc_cat=104&_nc_sid=730e14&_nc_ohc=OFtFropaAbcAX_KgZye&_nc_ht=scontent.fbkk12-2.fna&_nc_tp=6&oh=e6e85d2de374a2af7cf7f1637e8b39c2&oe=5ECDC0B6)
+
+* [link : 2nd Homework](https://www.youtube.com/watch?v=7si2xAQyQ2k)
