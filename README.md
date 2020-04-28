@@ -44,5 +44,5 @@
 
 | single cycle | multi cycle |
 | ------- | ------- |
-|![image](https://scontent.fbkk8-3.fna.fbcdn.net/v/t1.0-9/94337791_2335540323413097_7524834156300206080_n.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=7n1pZljEV78AX_4v_lh&_nc_ht=scontent.fbkk8-3.fna&oh=bcd7bc5bdae38554dacc99cf513d11d8&oe=5ECC4FAB)|![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/94964809_2335540320079764_4363524508871557120_n.jpg?_nc_cat=101&_nc_sid=730e14&_nc_ohc=w5QTOivtgdoAX8X201p&_nc_ht=scontent.fbkk12-1.fna&oh=470421abf675671375d1ac29a66ba9b2&oe=5ECC97E3)|
-|ใน 1 คำสั่งสามารถจบการทำงานภายใน 1 clock|ใน 1 คำสั่งไม่สามารถจบการทำงานได้ภายใน 1 clock(ขึ้นกับความยากง่ายของคำสั่ง)|
+|![image](https://scontent.fbkk8-3.fna.fbcdn.net/v/t1.0-9/94337791_2335540323413097_7524834156300206080_n.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=7n1pZljEV78AX_4v_lh&_nc_ht=scontent.fbkk8-3.fna&oh=bcd7bc5bdae38554dacc99cf513d11d8&oe=5ECC4FAB)<br>ใน 1 คำสั่งสามารถจบการทำงานภายใน 1 clock|![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/94964809_2335540320079764_4363524508871557120_n.jpg?_nc_cat=101&_nc_sid=730e14&_nc_ohc=w5QTOivtgdoAX8X201p&_nc_ht=scontent.fbkk12-1.fna&oh=470421abf675671375d1ac29a66ba9b2&oe=5ECC97E3)<br>ใน 1 คำสั่งไม่สามารถจบการทำงานได้ภายใน 1 clock(ขึ้นกับความยากง่ายของคำสั่ง)|
+|123|456|
