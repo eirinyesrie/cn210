@@ -18,6 +18,6 @@
 <br>
 [link : 1st Homework](https://www.youtube.com/watch?v=skleZIstKQc)
 ## 2nd HOMEWORK : การทำงานของคอมพิวเตอร์
-<br>![image](https://scontent.fbkk12-3.fna.fbcdn.net/v/t1.0-9/94489200_2335396296760833_9123494878783733760_n.jpg?_nc_cat=102&_nc_sid=730e14&_nc_ohc=hul8KDmkaGYAX9acGFd&_nc_ht=scontent.fbkk12-3.fna&oh=e4f55fb1a21f99513ce6b1a772aaaaf4&oe=5ECCB1EB)
+<br>![image](https://scontent.fbkk9-2.fna.fbcdn.net/v/t1.0-9/94841926_2335398180093978_3957410513238884352_n.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=BTc1-_RVac4AX_74j78&_nc_ht=scontent.fbkk9-2.fna&oh=318d0c4981b81111985269814450a372&oe=5ECC997E)
 
 
