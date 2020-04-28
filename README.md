@@ -29,6 +29,7 @@
 <br>**I-Type**
 <br>การทำงานของคอมพิวเตอร์คำสั่ง I-Type ทำงานดังนี้
 * Load Word (lw)
-![image](https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.0-9/p960x960/94688618_2335505790083217_3731359078711033856_o.jpg?_nc_cat=110&_nc_sid=730e14&_nc_ohc=_GpoaKJz5C8AX9xzV15&_nc_ht=scontent.fbkk12-4.fna&_nc_tp=6&oh=628c2c1624d81edacf2509a8b09fa69b&oe=5ECED5FB)
+![image](https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/p960x960/95024979_2335509466749516_471561458908397568_o.jpg?_nc_cat=104&_nc_sid=730e14&_nc_ohc=DsDhUrofu1oAX_jJfOR&_nc_ht=scontent.fbkk12-2.fna&_nc_tp=6&oh=150340915e1b5155dcafdb080dbaed29&oe=5ECD7C6C)
 
 * Store Word (sw)
+![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/p960x960/95063997_2335509456749517_7434998807860871168_o.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=k7lL8p8qw3oAX8TQHRC&_nc_ht=scontent.fbkk12-1.fna&_nc_tp=6&oh=0dfb0f52369f67fdb76e6060572cbaac&oe=5ECE8A8A)
