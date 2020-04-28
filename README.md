@@ -27,5 +27,6 @@
 ![image](https://scontent.fbkk9-2.fna.fbcdn.net/v/t1.0-9/p960x960/94644736_2335460750087721_2265015393695301632_o.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=9vbuAWyqfv0AX8ySHIn&_nc_ht=scontent.fbkk9-2.fna&_nc_tp=6&oh=368b8931d8a7a597a7a822b55c757a83&oe=5ECD1619)
 
 <br>**I-Type**
-<br>การทำงานของคอมพิวเตอร์คำสั่ง Jump ทำงานดังนี้
+<br>การทำงานของคอมพิวเตอร์คำสั่ง I-Type ทำงานดังนี้
+* Load Word (lw)
 ![image](https://scontent.fbkk12-3.fna.fbcdn.net/v/t1.0-9/p960x960/95127106_2335500076750455_7507200931843276800_o.jpg?_nc_cat=102&_nc_sid=730e14&_nc_ohc=JkGgtq3207UAX9j0kFV&_nc_ht=scontent.fbkk12-3.fna&_nc_tp=6&oh=a87af3616970fb49493aeb518726a1ac&oe=5ECC20AD)
