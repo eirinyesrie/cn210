@@ -10,5 +10,5 @@
 
 **วิธีการเขียนคำสั่ง jump** <br>
 แบ่งเป็น 2 ส่วนคือ Op Code และ Address โดย Op Code ของคำสั่ง jump คือ **000010** ส่วนAddressเราต้องทำการแปลงจาก 32 bits มาเป็น 26 bits เสียก่อนโดยทำดังนี้
-![image](https://www.google.com/search?q=johnny+depp&sxsrf=ALeKk02KMWnxFPvlXciSgnS4rODQ3VPzGA:1588082755892&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiIqaekpYvpAhV7zDgGHYX4AcwQ_AUoAXoECBgQAw&biw=1536&bih=754#imgrc=qU3mhXexz2T2HM)
+![image](https://pbs.twimg.com/media/EWsjPCjUwAMNSLg?format=jpg&name=large)
 
