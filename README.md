@@ -1,6 +1,7 @@
 # CN210 : computer architecture
 
 ## 1st HOMEWORK : Jump format(J-format)
+<br>**รูปแบบของ j-format**
 |Op Code|Address|
 |-----|-----|
 |6 bits|26 bits|
@@ -9,5 +10,5 @@
 
 **วิธีการเขียนคำสั่ง jump** <br>
 แบ่งเป็น 2 ส่วนคือ Op Code และ Address โดย Op Code ของคำสั่ง jump คือ **000010** ส่วนAddressเราต้องทำการแปลงจาก 32 bits มาเป็น 26 bits เสียก่อนโดยทำดังนี้
-![Image](https://www.facebook.com/photo?fbid=2335362643430865&set=a.1511946355772502)
+![Image]()
 
