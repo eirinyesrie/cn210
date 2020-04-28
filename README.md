@@ -18,6 +18,8 @@
 <br>
 [link : 1st Homework](https://www.youtube.com/watch?v=skleZIstKQc)
 ## 2nd HOMEWORK : การทำงานของคอมพิวเตอร์
-<br>![image](https://scontent.fbkk8-1.fna.fbcdn.net/v/t1.0-9/94627863_2335399450093851_2528063418812858368_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=Q94kSKInucAAX_6Iii5&_nc_ht=scontent.fbkk8-1.fna&oh=5f21f2091a020fc36e7c30bcdf3be4d4&oe=5ECC6487)
+<br>**J-Type**
+<br>การทำงานของคอมพิวเตอร์คำสั่ง Jump ทำงานดังนี้
+![image]()
 
 
