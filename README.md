@@ -3,7 +3,7 @@
 ## 1st HOMEWORK : Jump format(J-format)
 <br>**รูปแบบของ j-format**
 
-| Op Code | Address |
+| Opcode | Address |
 | ------- | ------- |
 |6 bits|26 bits|
 
