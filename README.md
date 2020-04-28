@@ -50,4 +50,10 @@
 |![image](https://scontent.fbkk8-3.fna.fbcdn.net/v/t1.0-9/94768354_2335554010078395_1954068372874330112_n.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=FdCUN35-wioAX9p9PsJ&_nc_ht=scontent.fbkk8-3.fna&oh=dfb1e2a067ec98bb8d79592352d87acd&oe=5ECD2D6C)<br>ไม่มี registor A,B ไว้สำหรับเก็บdataชั่วคราว|![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/94976779_2335554006745062_3618777841170120704_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=uBbcCRvWNXcAX_ARph6&_nc_ht=scontent.fbkk12-1.fna&oh=fbaa5329ba22dddc2e72b75514332485&oe=5ECEBCDF)<br>มี registor A,B ไว้สำหรับเก็บdataชั่วคราว|
 |![image](https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.0-9/95159582_2335557786744684_2563854863054143488_n.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=Pr7PEKC4ecQAX_Nvm6F&_nc_ht=scontent.fbkk8-2.fna&oh=0120f01f1638a54b5b3e0eac2acf96ff&oe=5ECFD37E)<br>ไม่มี instruction registor และ data registor|![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/95379513_2335557780078018_7070447704672829440_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=wh99XjMR2kYAX93w8pn&_nc_ht=scontent.fbkk12-1.fna&oh=789445debc02e73b829128acc8fafc93&oe=5ECEB37B)<br>มี instruction registor และ data registor|
 
-* [link : 3rd Homework](https://www.youtube.com/watch?v=-tSL3mxhbcg&t=14s)
+* [link : 4th Homework](https://www.youtube.com/watch?v=WLNe0p6ohww)
+
+* [link : 5th Homework](https://www.youtube.com/watch?v=zwOLIHpMjdo&t=5s)
+
+* [link : 6th Homework]()
+
+* [link : 7th Homework]()
