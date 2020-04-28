@@ -33,3 +33,6 @@
 
 * Store Word (sw)
 ![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/p960x960/95063997_2335509456749517_7434998807860871168_o.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=k7lL8p8qw3oAX8TQHRC&_nc_ht=scontent.fbkk12-1.fna&_nc_tp=6&oh=0dfb0f52369f67fdb76e6060572cbaac&oe=5ECE8A8A)
+
+<br>**R-Type**
+<br>การทำงานของคอมพิวเตอร์คำสั่ง I-Type ทำงานดังนี้
