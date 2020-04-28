@@ -1,6 +1,6 @@
 # CN210 : computer architecture
 
-## 1st HOMEWORK : Jump format(J-format)
+## 1st HOMEWORK : Jump format (J-format)
 <br>**รูปแบบของ j-format**
 
 | Op Code | Address |
@@ -19,10 +19,11 @@
 เมื่อแปลงจาก 32 bits เป็น 26 bits แล้ว ให้นำ Op Code และ Address(26 bits) มารวมกันแล้วแปลงเป็นเลขฐาน 2 ดังรูป 
 ![image](https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.0-0/p480x480/94519391_2335385786761884_110292784476323840_o.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=5hnIpx9pSGoAX9Ibi2y&_nc_ht=scontent.fbkk8-2.fna&_nc_tp=6&oh=d305892999f80f1747bc7dec163759ba&oe=5ECC443F) 
 <br>
-[link : 1st Homework](https://www.youtube.com/watch?v=skleZIstKQc)
+* [link : 1st Homework](https://www.youtube.com/watch?v=skleZIstKQc)
 ## 2nd HOMEWORK : การทำงานของคอมพิวเตอร์
 <br>**J-Type**
 <br>การทำงานของคอมพิวเตอร์คำสั่ง Jump ทำงานดังนี้
 ![image](https://scontent.fbkk9-2.fna.fbcdn.net/v/t1.0-9/p960x960/94644736_2335460750087721_2265015393695301632_o.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=9vbuAWyqfv0AX8ySHIn&_nc_ht=scontent.fbkk9-2.fna&_nc_tp=6&oh=368b8931d8a7a597a7a822b55c757a83&oe=5ECD1619)
-
+<br>**I-Type**
+<br>การทำงานของคอมพิวเตอร์คำสั่ง Jump ทำงานดังนี้
 
