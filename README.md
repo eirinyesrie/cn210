@@ -82,7 +82,22 @@
 * [link : 4th Homework](https://www.youtube.com/watch?v=WLNe0p6ohww)
 
 ## 5th HOMEWORK : Branch on Equal (Beq) on Multi Cycle
-* [link : 5th Homework](https://www.youtube.com/watch?v=zwOLIHpMjdo&t=5s)
+
+![image](https://pbs.twimg.com/media/EWwF1JIXsAUbkhh?format=jpg&name=small)
+<br>**1. T1 : Instruction Fetch**
+* อ่านค่า PC ชี้ไป Address ใดใน memory แล้วนำไปเก็บไว้ที่ Instruction Register
+* นำ PC ไปที่ ALU เพื่อ +4 และส่งค่ากลับมาที่ PC เพื่อเก็บค่าของตำแหน่งที่จะทำงานตำแหน่งต่อไป
+
+<br>**2. T2 : Instruction Decode & Register Fetch**
+* นำข้อมูลที่ $rs ไปเก็บไว้ที่ A นำข้อมูลที่ $rt ไปเก็บไว้ที่ B
+
+<br>**3. T3 : Branch Completion**
+* นำค่าที่ A และ B มาเปรียบเทียบกัน หากเท่ากันจะส่งผลลัพธ์ไปเก็บใน ALUout ถ้าไม่เท่ากันจะข้ามไปทำคำสั่งถัดไป
+
+* คลิปวิดิโอ 
+[link : 5th Homework](https://www.youtube.com/watch?v=zwOLIHpMjdo&t=5s)
+
+## 6th HOMEWORK : Control Signal R-format
 
 
 * [link : 6th Homework]()
