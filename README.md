@@ -58,6 +58,7 @@
 
 ## 4th HOMEWORK : Load Word(lw) in multi cycle
 * [link : 4th Homework](https://www.youtube.com/watch?v=WLNe0p6ohww)
+
 <br>**1. T1 : Instruction Fetch**
 ![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/95146561_2335873790046417_3881369577552084992_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=bQhlIXrbGSkAX_1mBXD&_nc_ht=scontent.fbkk12-1.fna&oh=44f0742f398d5bf694b2a8f263f3d90c&oe=5ECD1FB2)
 * อ่านค่า PC ชี้ไป Address ใดใน memory แล้วนำไปเก็บไว้ที่ Instruction Register
