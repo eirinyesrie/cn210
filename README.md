@@ -130,5 +130,14 @@
 [link : 6th Homework]()
 
 ## 7th HOMEWORK : Pipelining**
+<br>**Pipelining**คือ การนำคำสั่งหลายๆคำสั่งมาทำงานพร้อมกัน ไม่ต้องรอจนกว่าคำสั่งก่อนหน้าจะทำงานเสร็จ โดยใช้วิธีการเคลื่อนย้ายที่ซ้อนกัน (Over lapped) ของคำสั่ง ไปยังกระบวนการหรือขั้นตอนทางเลขคณิต โดยตัวประมวณผลเพื่อทำงานตามคำสั่ง <br>
+
+เราจะยกตัวอย่างเพื่อเปรียบเทียบให้เข้าใจได้ง่ายยิ่งขึ้นโดยใช้วิธีการซักผ้าในการอธิบาย
+
+<br>**การทำงานแบบ Sequential ทำ 4 ครั้งใช้เวลารวม 8 ชั่วโมง**
+![image](https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/p960x960/95176917_2335899283377201_9038357790774525952_o.jpg?_nc_cat=105&_nc_sid=730e14&_nc_ohc=zpEbE3Rfke4AX9fQtjV&_nc_ht=scontent.fbkk12-2.fna&_nc_tp=6&oh=f1a5e37adb43d564bb61dc3fb593ec2a&oe=5ECDC26E)
+
+<br>**การทำงานแบบ Pipelined ทำ 4 ครั้งใช้เวลารวม 3.5 ชั่วโมง**
+![image](https://scontent.fbkk13-1.fna.fbcdn.net/v/t1.0-9/p960x960/95047693_2335899290043867_8496841686960308224_o.jpg?_nc_cat=108&_nc_sid=730e14&_nc_ohc=j_90qfNTNWwAX9wrfXU&_nc_ht=scontent.fbkk13-1.fna&_nc_tp=6&oh=2375a29dc623701699bdf56ab61935d3&oe=5ECF21BD)
 
 * [link : 7th Homework]()
