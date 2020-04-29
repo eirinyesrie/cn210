@@ -79,7 +79,7 @@
 ![image](https://pbs.twimg.com/media/EWwCiiAXsAQ4reR?format=jpg&name=small)
 * นำค่าจาก Memory Data Register(MDR) ไปเก็บไว้ที่ $rt 
 
-* [link : 4th Homework](https://www.youtube.com/watch?v=WLNe0p6ohww)
+[link : 4th Homework](https://www.youtube.com/watch?v=WLNe0p6ohww)
 
 ## 5th HOMEWORK : Branch on Equal (Beq) on Multi Cycle
 
@@ -94,7 +94,7 @@
 <br>**3. T3 : Branch Completion**
 * นำค่าที่ A และ B มาเปรียบเทียบกัน หากเท่ากันจะส่งผลลัพธ์ไปเก็บใน ALUout ถ้าไม่เท่ากันจะข้ามไปทำคำสั่งถัดไป
 
-* [link : 5th Homework](https://www.youtube.com/watch?v=zwOLIHpMjdo&t=5s)
+[link : 5th Homework](https://www.youtube.com/watch?v=zwOLIHpMjdo&t=5s)
 
 ## 6th HOMEWORK : Control Signal R-format
 
@@ -127,7 +127,7 @@
 * 2.RegDst = 1 : จะนำตัว register rd มารอรับข้อมูลจาก ALUOut
 * 3.RegWrite = 1 : นำค่าALUOut ไปเก็บใน register rd ที่มารอรับข้อมูล
 
-* [link : 6th Homework]()
+[link : 6th Homework]()
 
 ## 7th HOMEWORK : Pipelining**
 
