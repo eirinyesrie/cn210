@@ -1,7 +1,6 @@
 # CN210 : computer architecture
 
 ## 1st HOMEWORK : Jump format (J-format)
-* [link : 1st Homework](https://www.youtube.com/watch?v=skleZIstKQc)
 
 <br>**รูปแบบของ j-format**
 
@@ -22,9 +21,10 @@
 ![image](https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.0-0/p480x480/94519391_2335385786761884_110292784476323840_o.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=5hnIpx9pSGoAX9Ibi2y&_nc_ht=scontent.fbkk8-2.fna&_nc_tp=6&oh=d305892999f80f1747bc7dec163759ba&oe=5ECC443F) 
 <br>
 
+* [link : 1st Homework](https://www.youtube.com/watch?v=skleZIstKQc)
 
 ## 2nd HOMEWORK : การทำงานของคอมพิวเตอร์
-* [link : 2nd Homework](https://www.youtube.com/watch?v=7si2xAQyQ2k)
+
 <br>**J-Type**
 <br>การทำงานของคอมพิวเตอร์คำสั่ง Jump ทำงานดังนี้
 ![image](https://scontent.fbkk9-2.fna.fbcdn.net/v/t1.0-9/p960x960/94644736_2335460750087721_2265015393695301632_o.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=9vbuAWyqfv0AX8ySHIn&_nc_ht=scontent.fbkk9-2.fna&_nc_tp=6&oh=368b8931d8a7a597a7a822b55c757a83&oe=5ECD1619)
@@ -41,10 +41,9 @@
 <br>การทำงานของคอมพิวเตอร์คำสั่ง I-Type ทำงานดังนี้
 ![image](https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/p960x960/94928612_2335520910081705_1391097185134706688_o.jpg?_nc_cat=104&_nc_sid=730e14&_nc_ohc=OFtFropaAbcAX_KgZye&_nc_ht=scontent.fbkk12-2.fna&_nc_tp=6&oh=e6e85d2de374a2af7cf7f1637e8b39c2&oe=5ECDC0B6)
 
-
+* [link : 2nd Homework](https://www.youtube.com/watch?v=7si2xAQyQ2k)
 
 ## 3rd HOMEWORK : Difference between single cycle and multi cycle
-* [link : 3rd Homework](https://www.youtube.com/watch?v=-tSL3mxhbcg)
 
 | single cycle | multi cycle |
 | ------- | ------- |
@@ -54,10 +53,9 @@
 |![image](https://scontent.fbkk8-3.fna.fbcdn.net/v/t1.0-9/94768354_2335554010078395_1954068372874330112_n.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=FdCUN35-wioAX9p9PsJ&_nc_ht=scontent.fbkk8-3.fna&oh=dfb1e2a067ec98bb8d79592352d87acd&oe=5ECD2D6C)<br>ไม่มี register A,B ไว้สำหรับเก็บdataชั่วคราว|![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/94976779_2335554006745062_3618777841170120704_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=uBbcCRvWNXcAX_ARph6&_nc_ht=scontent.fbkk12-1.fna&oh=fbaa5329ba22dddc2e72b75514332485&oe=5ECEBCDF)<br>มี register A,B ไว้สำหรับเก็บdataชั่วคราว|
 |![image](https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.0-9/95159582_2335557786744684_2563854863054143488_n.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=Pr7PEKC4ecQAX_Nvm6F&_nc_ht=scontent.fbkk8-2.fna&oh=0120f01f1638a54b5b3e0eac2acf96ff&oe=5ECFD37E)<br>ไม่มี instruction register และ data register|![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/95379513_2335557780078018_7070447704672829440_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=wh99XjMR2kYAX93w8pn&_nc_ht=scontent.fbkk12-1.fna&oh=789445debc02e73b829128acc8fafc93&oe=5ECEB37B)<br>มี instruction register และ data register|
 
-
+* [link : 3rd Homework](https://www.youtube.com/watch?v=-tSL3mxhbcg)
 
 ## 4th HOMEWORK : Load Word(lw) in multi cycle
-* [link : 4th Homework](https://www.youtube.com/watch?v=WLNe0p6ohww)
 
 <br>**1. T1 : Instruction Fetch**
 ![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/95146561_2335873790046417_3881369577552084992_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=bQhlIXrbGSkAX_1mBXD&_nc_ht=scontent.fbkk12-1.fna&oh=44f0742f398d5bf694b2a8f263f3d90c&oe=5ECD1FB2)
@@ -81,6 +79,7 @@
 ![image](https://pbs.twimg.com/media/EWwCiiAXsAQ4reR?format=jpg&name=small)
 * นำค่าจาก Memory Data Register(MDR) ไปเก็บไว้ที่ $rt 
 
+* [link : 4th Homework](https://www.youtube.com/watch?v=WLNe0p6ohww)
 
 ## 5th HOMEWORK : Branch on Equal (Beq) on Multi Cycle
 * [link : 5th Homework](https://www.youtube.com/watch?v=zwOLIHpMjdo&t=5s)
