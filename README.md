@@ -38,8 +38,8 @@
 ![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/p960x960/95063997_2335509456749517_7434998807860871168_o.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=k7lL8p8qw3oAX8TQHRC&_nc_ht=scontent.fbkk12-1.fna&_nc_tp=6&oh=0dfb0f52369f67fdb76e6060572cbaac&oe=5ECE8A8A)
 
 <br>**R-Type**
-<br>การทำงานของคอมพิวเตอร์คำสั่ง I-Type ทำงานดังนี้
-![image](https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/p960x960/94928612_2335520910081705_1391097185134706688_o.jpg?_nc_cat=104&_nc_sid=730e14&_nc_ohc=OFtFropaAbcAX_KgZye&_nc_ht=scontent.fbkk12-2.fna&_nc_tp=6&oh=e6e85d2de374a2af7cf7f1637e8b39c2&oe=5ECDC0B6)
+<br>การทำงานของคอมพิวเตอร์คำสั่ง R-Type ทำงานดังนี้
+![image](https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.0-9/p960x960/94562331_2335916676708795_7406510573254344704_o.jpg?_nc_cat=100&_nc_sid=730e14&_nc_ohc=apEwrjWmyaYAX-we3MM&_nc_ht=scontent.fbkk8-4.fna&_nc_tp=6&oh=bb2a3ff7a0b9b765b57c77fcf8fcdd6b&oe=5ECDB751)
 
 * [link : 2nd Homework](https://www.youtube.com/watch?v=7si2xAQyQ2k)
 
