@@ -127,7 +127,7 @@
 * 2.RegDst = 1 : จะนำตัว register rd มารอรับข้อมูลจาก ALUOut
 * 3.RegWrite = 1 : นำค่าALUOut ไปเก็บใน register rd ที่มารอรับข้อมูล
 
-[link : 6th Homework]()
+[link : 6th Homework](https://www.youtube.com/watch?v=JJlKwsip3p0)
 
 ## 7th HOMEWORK : Pipelining
 <br>**Pipelining** คือ การนำคำสั่งหลายๆคำสั่งมาทำงานพร้อมกัน ไม่ต้องรอจนกว่าคำสั่งก่อนหน้าจะทำงานเสร็จ โดยใช้วิธีการเคลื่อนย้ายที่ซ้อนกัน (Over lapped) ของคำสั่ง ไปยังกระบวนการหรือขั้นตอนทางเลขคณิต โดยตัวประมวณผลเพื่อทำงานตามคำสั่ง <br>
@@ -136,8 +136,10 @@
 
 <br>**การทำงานแบบ Sequential ทำ 4 ครั้งใช้เวลารวม 8 ชั่วโมง**
 ![image](https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/p960x960/95176917_2335899283377201_9038357790774525952_o.jpg?_nc_cat=105&_nc_sid=730e14&_nc_ohc=zpEbE3Rfke4AX9fQtjV&_nc_ht=scontent.fbkk12-2.fna&_nc_tp=6&oh=f1a5e37adb43d564bb61dc3fb593ec2a&oe=5ECDC26E)
+* ถ้าทำแบบ sequential เราจะทำการซักผ้า ปั่นแห้ง ให้เสร็จคนนึงก่อนถึงจะทำของคนถัดไป ถ้าเปรียบเป็นการทำงานของCPUก็คือ CPU จะทำตามคำสั่งนึงให้เสร็จทุกขั้นตอนก่อนถึงจะทำคำสั่งถัดไป
 
 <br>**การทำงานแบบ Pipelined ทำ 4 ครั้งใช้เวลารวม 3.5 ชั่วโมง**
 ![image](https://scontent.fbkk13-1.fna.fbcdn.net/v/t1.0-9/p960x960/95047693_2335899290043867_8496841686960308224_o.jpg?_nc_cat=108&_nc_sid=730e14&_nc_ohc=j_90qfNTNWwAX9wrfXU&_nc_ht=scontent.fbkk13-1.fna&_nc_tp=6&oh=2375a29dc623701699bdf56ab61935d3&oe=5ECF21BD)
+* ถ้าเป็นแบบ pipelining ในขณะที่เราซักผ้าของAเสร็จแล้วเราก็นำผ้าของAไปปั่นแห้ง ถังซักว่างเราจึงนำผ้าของคนถัดไปมาซัก ถ้าเปรียบเป็นการทำงานของCPU คือ ในขณะที่เรางานคำสั่งแรกจบขึ้นตอนที่1แล้วส่งไปทำขั้นตอนที่2 ขั้นตอนที่1นั้นว่างเราจึงนำคำสั่งถัดไปมาทำ ทำให้เห็นว่าการทำงานแบบpipeliningนั้นรวดเร็วมาก เร็วกว่าsingle cycle และ multi cycle
 
-* [link : 7th Homework]()
+[link : 7th Homework](https://www.youtube.com/watch?v=c6VToTGQbsE)
