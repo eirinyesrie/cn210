@@ -40,17 +40,25 @@
 
 * [link : 2nd Homework](https://www.youtube.com/watch?v=7si2xAQyQ2k)
 
-## 3rd HOMEWORK : ความแตกต่างระหว่าง single cycle และ multi cycle
+## 3rd HOMEWORK : Difference between single cycle and multi cycle
 
 | single cycle | multi cycle |
 | ------- | ------- |
 |![image](https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.0-9/94442656_2335545196745943_4017612434171756544_n.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=cijODhik3NoAX9LO1F2&_nc_ht=scontent.fbkk12-4.fna&oh=a9d2234ae2bedfc37f7592f03060a1d4&oe=5ECCD2E4)<br>ใน 1 คำสั่งสามารถจบการทำงานภายใน 1 clock|![image](https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/94884180_2335545200079276_170332192436649984_n.jpg?_nc_cat=105&_nc_sid=730e14&_nc_ohc=9yKIl2fOGyIAX-LU3Mp&_nc_ht=scontent.fbkk12-2.fna&oh=453fd1d350e9953b8414725afa24f352&oe=5ECD0109)<br>ใน 1 คำสั่งไม่สามารถจบการทำงานได้ภายใน 1 clock(ขึ้นกับความยากง่ายของคำสั่ง)|
 |![image](https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/95258776_2335547863412343_5459161036764479488_n.jpg?_nc_cat=105&_nc_sid=730e14&_nc_ohc=ZzyqqX49_i0AX_p-Ox9&_nc_ht=scontent.fbkk12-2.fna&oh=9525dfe1c02a61a6dd3632866c3366eb&oe=5ECD1389)<br>มี memory 2 ชิ้น(Harvard architecture)|![image](https://scontent.fbkk13-1.fna.fbcdn.net/v/t1.0-9/95056024_2335547856745677_2377260902232621056_n.jpg?_nc_cat=108&_nc_sid=730e14&_nc_ohc=3dhXnWDqYXIAX_SCIaA&_nc_ht=scontent.fbkk13-1.fna&oh=18d7eed15b46e93499c6edb3ed619d6f&oe=5ECC7309)<br>มี memory 1 ชิ้น(Von Neuman architecture)|
 |![image](https://scontent.fbkk12-3.fna.fbcdn.net/v/t1.0-9/95494492_2335551273412002_5143926783883608064_n.jpg?_nc_cat=102&_nc_sid=730e14&_nc_ohc=KTZYJt2fcEMAX_Vi3L4&_nc_ht=scontent.fbkk12-3.fna&oh=8eddb70a33865862dba2b2b9bc9d47ca&oe=5ECD1A2C)<br>มี ALU 3 ตัว (2 adders)|![image](https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/94880810_2335551243412005_572084635895332864_n.jpg?_nc_cat=104&_nc_sid=730e14&_nc_ohc=MYExwdOlOYoAX-kSfVB&_nc_ht=scontent.fbkk12-2.fna&oh=66b885fbae17c4110df40874a58fc3b6&oe=5ECCBCDD)<br>มี ALU เพียงตัวเดียว|
-|![image](https://scontent.fbkk8-3.fna.fbcdn.net/v/t1.0-9/94768354_2335554010078395_1954068372874330112_n.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=FdCUN35-wioAX9p9PsJ&_nc_ht=scontent.fbkk8-3.fna&oh=dfb1e2a067ec98bb8d79592352d87acd&oe=5ECD2D6C)<br>ไม่มี registor A,B ไว้สำหรับเก็บdataชั่วคราว|![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/94976779_2335554006745062_3618777841170120704_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=uBbcCRvWNXcAX_ARph6&_nc_ht=scontent.fbkk12-1.fna&oh=fbaa5329ba22dddc2e72b75514332485&oe=5ECEBCDF)<br>มี registor A,B ไว้สำหรับเก็บdataชั่วคราว|
-|![image](https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.0-9/95159582_2335557786744684_2563854863054143488_n.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=Pr7PEKC4ecQAX_Nvm6F&_nc_ht=scontent.fbkk8-2.fna&oh=0120f01f1638a54b5b3e0eac2acf96ff&oe=5ECFD37E)<br>ไม่มี instruction registor และ data registor|![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/95379513_2335557780078018_7070447704672829440_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=wh99XjMR2kYAX93w8pn&_nc_ht=scontent.fbkk12-1.fna&oh=789445debc02e73b829128acc8fafc93&oe=5ECEB37B)<br>มี instruction registor และ data registor|
+|![image](https://scontent.fbkk8-3.fna.fbcdn.net/v/t1.0-9/94768354_2335554010078395_1954068372874330112_n.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=FdCUN35-wioAX9p9PsJ&_nc_ht=scontent.fbkk8-3.fna&oh=dfb1e2a067ec98bb8d79592352d87acd&oe=5ECD2D6C)<br>ไม่มี register A,B ไว้สำหรับเก็บdataชั่วคราว|![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/94976779_2335554006745062_3618777841170120704_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=uBbcCRvWNXcAX_ARph6&_nc_ht=scontent.fbkk12-1.fna&oh=fbaa5329ba22dddc2e72b75514332485&oe=5ECEBCDF)<br>มี register A,B ไว้สำหรับเก็บdataชั่วคราว|
+|![image](https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.0-9/95159582_2335557786744684_2563854863054143488_n.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=Pr7PEKC4ecQAX_Nvm6F&_nc_ht=scontent.fbkk8-2.fna&oh=0120f01f1638a54b5b3e0eac2acf96ff&oe=5ECFD37E)<br>ไม่มี instruction register และ data register|![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/95379513_2335557780078018_7070447704672829440_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=wh99XjMR2kYAX93w8pn&_nc_ht=scontent.fbkk12-1.fna&oh=789445debc02e73b829128acc8fafc93&oe=5ECEB37B)<br>มี instruction register และ data register|
 
 * [link : 3rd Homework](https://www.youtube.com/watch?v=-tSL3mxhbcg)
+
+## 4th HOMEWORK : Load Word(lw) in multi cycle
+<br>**1. T1 : Instruction Fetch**
+![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/95146561_2335873790046417_3881369577552084992_n.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=bQhlIXrbGSkAX_1mBXD&_nc_ht=scontent.fbkk12-1.fna&oh=44f0742f398d5bf694b2a8f263f3d90c&oe=5ECD1FB2)
+* อ่านค่า PC ชี้ไป Address ใดใน memory แล้วนำไปเก็บไว้ที่ Instruction Register
+* นำ PC ไปที่ ALU เพื่อ +4 และส่งค่ากลับมาที่ PC เพื่อเก็บค่าของตำแหน่งที่จะทำงานตำแหน่งถัดไป
+
+<br>**2. T2 : Instruction Decode and Register Fetch
 
 * [link : 4th Homework](https://www.youtube.com/watch?v=WLNe0p6ohww)
 
