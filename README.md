@@ -58,9 +58,26 @@
 * อ่านค่า PC ชี้ไป Address ใดใน memory แล้วนำไปเก็บไว้ที่ Instruction Register
 * นำ PC ไปที่ ALU เพื่อ +4 และส่งค่ากลับมาที่ PC เพื่อเก็บค่าของตำแหน่งที่จะทำงานตำแหน่งถัดไป
 
-<br>**2. T2 : Instruction Decode and Register Fetch
+<br>**2. T2 : Instruction Decode and Register Fetch**
+![image](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/95092403_2335875320046264_2074752388341694464_o.jpg?_nc_cat=106&_nc_sid=730e14&_nc_ohc=3nTKYFuO8TEAX_-BWJg&_nc_ht=scontent.fbkk12-1.fna&oh=203746dfe2003bd7be461293f5b3f902&oe=5ECD3930)
+* นำdataที่ $rs ไปเก็บไว้ที่ A และ นำdataที่ $rt ไปเก็บไว้ที่ B
+* นำค่า offset ไป sign extend จะเปลี่ยนจาก 16 bit เป็น 32 bit และ shift ไปทางด้านซ้าย 2 ตำแหน่ง และ บวกกับค่า PC ที่ ALU และนำผลลัพธ์ที่ได้ไปเก็บไที่ ALUOut
+
+<br>**3. T3 : Memory Address Calculation**
+![image](https://pbs.twimg.com/media/EWwBeHhXgAErqu4?format=jpg&name=small)
+* นำค่าที่เก็บไว้ที่ A มาบวกกับ offset แล้วเก็บผลลัพธ์ที่ได้ไว้ใน ALUout
+
+<br>**4. T4 : Memory Access**
+![image](https://pbs.twimg.com/media/EWwCmY3XkAQwPXl?format=jpg&name=small)
+* นำค่าที่เก็บไว้ที่ Memory ที่ตำแหน่ง ALUOut ไปเก็บไว้ที่ Memory Data Register(MDR)
+
+<br>**5. T5 : Write-back Step**
+![image](https://pbs.twimg.com/media/EWwCiiAXsAQ4reR?format=jpg&name=small)
+* นำค่าจาก Memory Data Register(MDR) ไปเก็บไว้ที่ $rt 
 
 * [link : 4th Homework](https://www.youtube.com/watch?v=WLNe0p6ohww)
+
+## 5th HOMEWORK : Branch on Equal (Beq) on Multi Cycle
 
 * [link : 5th Homework](https://www.youtube.com/watch?v=zwOLIHpMjdo&t=5s)
 
