@@ -94,12 +94,41 @@
 <br>**3. T3 : Branch Completion**
 * นำค่าที่ A และ B มาเปรียบเทียบกัน หากเท่ากันจะส่งผลลัพธ์ไปเก็บใน ALUout ถ้าไม่เท่ากันจะข้ามไปทำคำสั่งถัดไป
 
-* คลิปวิดิโอ 
-[link : 5th Homework](https://www.youtube.com/watch?v=zwOLIHpMjdo&t=5s)
+* [link : 5th Homework](https://www.youtube.com/watch?v=zwOLIHpMjdo&t=5s)
 
 ## 6th HOMEWORK : Control Signal R-format
 
+<br>**1. T1 : Fetch**
+![image](https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.0-9/95136916_2335890060044790_3569810957683130368_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=bCKuBZuwXHgAX_VYrxU&_nc_ht=scontent.fbkk12-4.fna&oh=3befa3bc19dabb42088d7d431ee480b5&oe=5ED01957)
+* 1.MemRead = 1 : จะไปสั่งงานในส่วนMemory
+* 2.IorD = 1 : อ่านว่าปัจจุบัน PC ชี้ไปที่ Address ใดใน Memory
+* 3.IRWrite = 1 : จะนำค่าที่ไปนำมาจาก Memory ในตำแหน่ง PC ไปใส่ไว้ใน Instruction Register
+* 4.ALUScrA = 0 : Mux เลือกค่าจาก 0 ซึ่งคือ PC
+* 5.ALUScrB = 1 : Mux เลือกค่าจาก 1 ซึ่งคือ 4
+* 6.ALUOP = ADD : จะสั่งให้ นำค่า PC มาบวกกับ 4 และส่งผลไปที่ ALUOut
+* 7.PCSource = 1 : จะส่งค่าจากALUOut ไปที่ Mux
+* 8.PCWrite = 1 : จะส่งค่าPC+4 ไปที่ PC
+
+<br>**2. T2 : Decode**
+![image](https://scontent.fbkk9-2.fna.fbcdn.net/v/t1.0-9/95026710_2335890050044791_6759203184352165888_o.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=_KMvX2CEBNMAX9PBD4u&_nc_ht=scontent.fbkk9-2.fna&oh=24c64cad9f0409dda3babc810c3e3ac6&oe=5ECEFD0D)
+* 1.ALUScrA = 0 : Mux เลือกค่าจาก 0 ซึ่งคือ PC
+* 2.ALUScrB = 3 : Mux เลือกค่าจาก 3 ซึ่งคือ offset
+* 3.ALUOP = 0 : จะทำการadd ค่าPC กับ offset และไปเก็บที่ ALUOut
+
+<br>**3. T3 : ExecALU**
+![image](https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.0-9/95247599_2335890040044792_4188088258904719360_o.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=FjQEoc4w8HEAX_p5Pkn&_nc_ht=scontent.fbkk8-2.fna&oh=1ce2dfdebc624dbdd58a21f32a7e6f2a&oe=5ECFA9B6)
+* 1.ALUSrcA = 1 : Mux เลือกค่าจาก 1 ซึ่งคือ register rs
+* 2.ALUSrcB = 0 : Mux เลือกค่าจาก 0 ซึ่งคือ register rt
+* 3.ALUOP = 2 : เป็นคำสั่งที่ต้องการจะคำนวณ เมื่อคำนวณเสร็จแล้วจะเก็บผลลัพธ์ไว้ที่ ALUOut
+
+<br>**4. T4 : WrReg**
+![image](https://scontent.fbkk13-1.fna.fbcdn.net/v/t1.0-9/95129905_2335890110044785_2171385102347534336_o.jpg?_nc_cat=108&_nc_sid=730e14&_nc_ohc=wyNnhmXzf1MAX9aNBX4&_nc_ht=scontent.fbkk13-1.fna&oh=85e746c8319becf6da3c05eb1bbc3768&oe=5ECE2AA8)
+* 1.MemtoReg = 0 : จะดึงค่าจากALUOut ผ่านทาง Mux
+* 2.RegDst = 1 : จะนำตัว register rd มารอรับข้อมูลจาก ALUOut
+* 3.RegWrite = 1 : นำค่าALUOut ไปเก็บใน register rd ที่มารอรับข้อมูล
 
 * [link : 6th Homework]()
+
+## 7th HOMEWORK : Pipelining**
 
 * [link : 7th Homework]()
